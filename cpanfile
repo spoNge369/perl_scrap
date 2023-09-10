@@ -6,3 +6,4 @@ requires "Net::DNS::Native";
 requires "IO::Socket::SSL";
 requires "Role::Tiny";
 requires "Future::AsyncAwait";
+requires "WWW::Wappalyzer";
